@@ -1,4 +1,5 @@
 # vite-react-eslint-prettier
+
 A starter for React with Vite, Eslint and formatting with Prettier.
 
 ## Installation
